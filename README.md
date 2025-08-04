@@ -20,7 +20,7 @@ A lightweight React + Tailwind CSS application that lets you:
 
 ---
 ## 📽 Demo Preview
-![App Demo]
+
 ![Image](https://github.com/user-attachments/assets/2af92cb4-0dba-4899-a1b2-94be7258a05b)
 
 ## 🚀 Getting Started
