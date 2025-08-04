@@ -19,11 +19,3 @@ A lightweight React + Tailwind CSS application that lets you:
 - **Error & loading states** with toast notifications  
 - **Mobile-first** layout that expands gracefully on desktop  
 
----
-
-## Installation
-
-1. Clone the repo  
-   ```bash
-   git clone git@github.com:your-username/character-search-app.git
-   cd character-search-app
