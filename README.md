@@ -21,7 +21,7 @@ A lightweight React + Tailwind CSS application that lets you:
 ---
 ## 📽 Demo Preview
 
-![Rick-Linkedin-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/579b078e-2f54-4c72-a90a-ec440fb3fca7)
+![Image](https://github.com/user-attachments/assets/35b2dbbf-976f-4164-ab8f-d5b7d3188183)
 
 
 
