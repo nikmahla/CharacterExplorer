@@ -17,5 +17,11 @@ A lightweight React + Tailwind CSS application that lets you:
 - **Custom hooks** for data fetching & favorites (localStorage)  
 - **Contained scrolling**: only the list and episode panels scroll  
 - **Error & loading states** with toast notifications  
-- **Mobile-first** layout that expands gracefully on desktop  
 
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/nikmahla/CharacterExplorer.git
+cd CharacterExplorer
+npm install
+npm run dev
