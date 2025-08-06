@@ -24,6 +24,12 @@ A lightweight React + Tailwind CSS application that lets you:
 ![Image](https://github.com/user-attachments/assets/35b2dbbf-976f-4164-ab8f-d5b7d3188183)
 
 
+----
+## ✨ Developed by [Fatemeh Nikookar] (https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/)
+
+🕰 **Created:** August, 2025  
+
+👩‍💻 **Role:** Frontend Developer 
 
 ## 🚀 Getting Started
 
