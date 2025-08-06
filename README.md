@@ -25,7 +25,9 @@ A lightweight React + Tailwind CSS application that lets you:
 
 
 ----
-## ✨ Developed by [Fatemeh Nikookar] (https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/)
+## ✨ Developed by Fatemeh Nikookar
+
+[Contact](https://www.linkedin.com/in/fatemeh-nikookar-b00a28291/)
 
 🕰 **Created:** August, 2025  
 
